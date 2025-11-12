@@ -239,7 +239,7 @@ export default function Contact() {
             <FaPhoneAlt size={18} />
           </div>
           <p className="text-gray-300 text-lg font-medium tracking-wide">
-            +91 98765 43210
+            +91 8088239564
           </p>
         </motion.div>
       </div>
